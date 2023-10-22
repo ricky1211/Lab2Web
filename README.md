@@ -22,7 +22,7 @@ screenshotnya.
 
 **Hasil :**
 
-![0.1](Screenshot%20(235).png)
+![0.1](ScreenShot/Screenshot%20(235).png)
 
 ## 2. Mendeklarasikan CSS internal
 ![2](Screenshot%20(237).png)
