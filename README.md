@@ -18,46 +18,46 @@ screenshotnya.
 6. Kirim URL repository pada e-learning ecampus
 
 ## 1. Membuat dokumen HTML
-![](Screenshot/Screenshot%20(236).png)
+![1.0](Screenshot/Screenshot%20(236).png)
 
 **Hasil :**
 
-![](ScreenShot/Screenshot%20(235).png)
+![1.1](ScreenShot/Screenshot%20(235).png)
 
 ## 2. Mendeklarasikan CSS internal
-![](Screenshot/Screenshot%20(237).png)
+![2.o](Screenshot/Screenshot%20(237).png)
 
 **Hasil :**
 
-![](Screenshot/Screenshot%20(238).png)
+![2.2](Screenshot/Screenshot%20(238).png)
 
 ## 3. Menambahkan inline CSS
 
-![](Screenshot/Screenshot%20(239).png)
+![3.0](Screenshot/Screenshot%20(239).png)
 
 **Hasil :**
 
-![](Screenshot/Screenshot%20(240).png)
+![3.3](Screenshot/Screenshot%20(240).png)
 
 ## 4. Membuat CSS External
-![](Screenshot/Screenshot%20(241).png)
+![4.0](Screenshot/Screenshot%20(241).png)
 
 **Hasil :**
 
-![](Screenshot/Screenshot%20(242).png)
+![4.4](Screenshot/Screenshot%20(242).png)
 
 ## 5. Menambahkan CSS selector
 
-![](Screenshot/Screenshot%20(243).png)
+![5.0](Screenshot/Screenshot%20(243).png)
 
 **Hasil :**
 
-![](Screenshot/Screenshot%20(244).png)
+![5.5](Screenshot/Screenshot%20(244).png)
 
 ### Ini adalah sourcecode akhir pada tugas kali ini.
 
-![](Screenshot/Screenshot%20(245).png)
-![](Screenshot/Screenshot%20(246).png)
+![6.0](Screenshot/Screenshot%20(245).png)
+![6.6](Screenshot/Screenshot%20(246).png)
 ## Pertanyaan dan Tugas Pada P2
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
