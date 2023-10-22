@@ -18,33 +18,46 @@ screenshotnya.
 6. Kirim URL repository pada e-learning ecampus
 
 ## 1. Membuat dokumen HTML
-
+![1](Screenshot%20(236).png)
 
 **Hasil :**
 
-![0.1](Gambar/1.png)
+![0.1](Screenshot%20(235).png)
 
 ## 2. Mendeklarasikan CSS internal
+![2](Screenshot%20(237).png)
 
 **Hasil :**
-![0.1](Gambar/3.png)
+
+![0.2](Screenshot%20(238).png)
+
+## 3. Menambahkan inline CSS
+
+![3](Screenshot%20(239).png)
+
+**Hasil :**
+
+![0.3](Screenshot%20(240).png)
 
 ## 4. Membuat CSS External
+![4](Screenshot%20(241).png)
 
 **Hasil :**
 
-![0.1](Gambar/4.png)
+![0.4](Screenshot%20(242).png)
 
 ## 5. Menambahkan CSS selector
 
+![5](Screenshot%20(243).png)
+
 **Hasil :**
 
-![0.1](Gambar/5.png)
+![0.5](Screenshot%20(244).png)
 
 ### Ini adalah sourcecode akhir pada tugas kali ini.
 
-![]()
-
+![5](Screenshot%20(245).png)
+![5](Screenshot%20(246).png)
 ## Pertanyaan dan Tugas Pada P2
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
