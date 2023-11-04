@@ -25,7 +25,7 @@ screenshotnya.
 ![1.1](ScreenShot/Screenshot%20(235).png)
 
 ## 2. Mendeklarasikan CSS internal
-![2.o](Screenshot%20(237).png)
+![2.o](https://github.com/ricky1211/Lab2Web/blob/main/Gambar/1%20(11).png?raw=true)
 
 **Hasil :**
 
