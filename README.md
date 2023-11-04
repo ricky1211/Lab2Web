@@ -22,14 +22,14 @@ screenshotnya.
 
 **Hasil :**
 
-![1.1](ScreenShot/Screenshot%20(235).png)
+![1.1](https://github.com/ricky1211/Lab2Web/blob/main/Gambar/1%20(3).png?raw=true)
 
 ## 2. Mendeklarasikan CSS internal
-![2.o](https://github.com/ricky1211/Lab2Web/blob/main/Gambar/1%20(11).png?raw=true)
+![2.o]()
 
 **Hasil :**
 
-![2.2](Screenshot%20(238).png)
+![2.2](https://github.com/ricky1211/Lab2Web/blob/main/Gambar/1%20(10).png?raw=true)
 
 ## 3. Menambahkan inline CSS
 
@@ -37,27 +37,45 @@ screenshotnya.
 
 **Hasil :**
 
-![3.3](Screenshot%20(240).png)
+![3.3](https://github.com/ricky1211/Lab2Web/blob/main/Gambar/1%20(12).png?raw=true)
 
 ## 4. Membuat CSS External
-![4.0](Screenshot%20(241).png)
+![4.0](https://github.com/ricky1211/Lab2Web/blob/main/Gambar/1%20(11).png?raw=true)
 
 **Hasil :**
 
 ![4.4](Screenshot%20(242).png)
 
 ## 5. Menambahkan CSS selector
-
-![5.0](Screenshot%20(243).png)
+/* ID Selector */
+#intro {
+background: #418fb1;
+border: 1px solid #099249;
+min-height: 100px;
+padding: 10px;
+}
+#intro h1 {
+text-align: left;
+border: 0;
+color: #fff;
+}
+/* Class Selector */
+.button {
+padding: 15px 20px;
+background: #bebcbd;
+color: #fff;
+display: inline-block;
+margin: 10px;
+text-decoration: none;
+}
+.btn-primary {
+background: #E42A42;
+}
 
 **Hasil :**
 
-![5.5](Screenshot%20(244).png)
+![5.5](https://github.com/ricky1211/Lab2Web/blob/main/Gambar/1%20(12).png?raw=true)
 
-### Ini adalah sourcecode akhir pada tugas kali ini.
-
-![6.0](Screenshot%20(245).png)
-![6.6](Screenshot%20(246).png)
 ## Pertanyaan dan Tugas Pada P2
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
